@@ -11,7 +11,7 @@ Vinnur minn Svavar bauð sig fram sem sjálfboðaliða fyrir 3d scannið
 ...mynda af svabba...
 
 
-# Ég notaði Blender til þess að 
+# Notaði Blender til þess að fínpússa og adda rig skeleton
 
   -taka bakgrunn úr myndini, 
   -gera modelinn extra smooth og 
@@ -22,5 +22,5 @@ Vinnur minn Svavar bauð sig fram sem sjálfboðaliða fyrir 3d scannið
 --- mynd af blender að adda skeleton á Svavar
 
 
-# Síðan setti ég modelinn inn í three.js þar sem MediaPipe les líkams hreyfingar.
+# Setja modelinn inn í three.js með Mediapipe.
 
