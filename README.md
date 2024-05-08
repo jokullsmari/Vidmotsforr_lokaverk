@@ -22,5 +22,5 @@ Vinnur minn Svavar bauð sig fram sem sjálfboðaliða fyrir 3d scannið
 --- mynd af blender að adda skeleton á Svavar
 
 
-# Síðan setti ég modelinn inn í three.js þar sem MediaPipe les hreyfingarnar mínar.
+# Síðan setti ég modelinn inn í three.js þar sem MediaPipe les líkams hreyfingar.
 
