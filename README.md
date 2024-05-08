@@ -11,7 +11,10 @@ Vinnur minn Svavar bauð sig fram sem sjálfboðaliða fyrir 3d scannið
 ...mynda af svabba...
 
 
-Ég notaði Blender til þess að taka bakgrunn úr myndini, 
+Ég notaði Blender til þess að 
+  -taka bakgrunn úr myndini, 
+  -gera modelinn extra smooth og 
+  -bæta gig skeleton fyrir hreyfinguna.
 
 
 
