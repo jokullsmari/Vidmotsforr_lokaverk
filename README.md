@@ -17,7 +17,7 @@ Vinnur minn Svavar bauð sig fram sem sjálfboðaliða fyrir 3d scannið
 # Notaði Blender til þess að fínpússa og adda rig skeleton
 
   1. Taka bakgrunn úr myndini, 
-  2. Gera modelinn extra smooth og 
+  2. Fínpússa texture or gera modelinn extra smooth
   3. Bæta rig beinagrind fyrir hreyfinguna.
 
 <img src="https://github.com/jokullsmari/Vidmotsforr_lokaverk/assets/36273431/8f28c7f1-a5c1-422b-bce5-69a0b83e7549" width=320 height=300>
