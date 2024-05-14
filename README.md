@@ -7,6 +7,8 @@
 
 Ég notaði síma app sem heitir polycam til þess að nota 3d scannið.
 Vinnur minn Svavar bauð sig fram sem sjálfboðaliða fyrir 3d scannið
+![IMG_1426](https://github.com/jokullsmari/Vidmotsforr_lokaverk/assets/36273431/7708d8a9-03bb-45ba-97bc-0fc3e4885a83)
+![IMG_1426](https://github.com/jokullsmari/Vidmotsforr_lokaverk/assets/36273431/7708d8a9-03bb-45ba-97bc-0fc3e4885a83)
 
 
 ...mynda af svabba...
