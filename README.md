@@ -19,7 +19,7 @@ Vinnur minn Svavar bauð sig fram sem sjálfboðaliða fyrir 3d scannið
   -gera modelinn extra smooth og 
   -bæta gig skeleton fyrir hreyfinguna.
 
-<img src="[https://github.com/jokullsmari/Vidmotsforr_lokaverk/assets/36273431/8f28c7f1-a5c1-422b-bce5-69a0b83e7549)" width=300 height=400>
+<img src="https://github.com/jokullsmari/Vidmotsforr_lokaverk/assets/36273431/8f28c7f1-a5c1-422b-bce5-69a0b83e7549" width=300 height=400>
 
 
 
