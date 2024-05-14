@@ -11,7 +11,7 @@
 
 Vinnur minn Svavar bauð sig fram sem sjálfboðaliða fyrir 3d scannið
 
-<img src="https://github.com/jokullsmari/Vidmotsforr_lokaverk/assets/36273431/99901feb-88b8-4c6f-9d5d-1aaa21342aa8" width=300 height=400>
+<img src="[https://github.com/jokullsmari/Vidmotsforr_lokaverk/assets/36273431/99901feb-88b8-4c6f-9d5d-1aaa21342aa8)" width=300 height=400>
 
 # Notaði Blender til þess að fínpússa og adda rig skeleton
 
