@@ -27,6 +27,7 @@ Vinnur minn Svavar bauð sig fram sem sjálfboðaliða fyrir 3d scannið
 # Setja modelinn inn í Three.js með Mediapipe.
 
 Modelinn kemur síðann inn í Three.js með mediapipe til þess að lesa key points á webcam
+
 Linkur sem hjálpar með Mediapipe Pose estimaion: https://www.youtube.com/watch?v=kuY-m6id4F4
 
 <img src="https://github.com/jokullsmari/Vidmotsforr_lokaverk/assets/36273431/1a19a124-db3a-4b1b-b15d-e115adc8c7b2" width=800 height=400>
