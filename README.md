@@ -24,6 +24,8 @@ Vinnur minn Svavar bauð sig fram sem sjálfboðaliða fyrir 3d scannið
 <img src="https://github.com/jokullsmari/Vidmotsforr_lokaverk/assets/36273431/0028fbb4-7ff6-4c66-8558-72e5a5e43830" width=320 height=300>
 <img src="https://github.com/jokullsmari/Vidmotsforr_lokaverk/assets/36273431/51134784-dc4f-480c-bdac-27272b0a5e93" width=320 height=300>
 
+Mikill tími fór í að læra blender :/
+
 # Setja modelinn inn í Three.js með Mediapipe.
 
 Modelinn kemur síðann inn í Three.js með mediapipe til þess að lesa key points á webcam
