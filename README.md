@@ -5,9 +5,9 @@
 
 Ég áhvað að búa til Síðu sem tekur inn 3D scannaður model sem les hreyfingar notanda appsins með því að scanna líkams hreyfingar
 
-Ég notaði síma app sem heitir polycam til þess að nota 3d scannið.
+Áhvað að nota síma app sem heitir polycam til þess að nota 3d scannið.
 
-[IMG_1426](https://github.com/jokullsmari/Vidmotsforr_lokaverk/assets/36273431/7708d8a9-03bb-45ba-97bc-0fc3e4885a83)
+<img src="https://github.com/jokullsmari/Vidmotsforr_lokaverk/assets/36273431/7708d8a9-03bb-45ba-97bc-0fc3e4885a83" width=300 height=400>
 
 Vinnur minn Svavar bauð sig fram sem sjálfboðaliða fyrir 3d scannið
 
