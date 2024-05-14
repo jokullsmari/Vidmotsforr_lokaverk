@@ -31,4 +31,4 @@ Vinnur minn Svavar bauð sig fram sem sjálfboðaliða fyrir 3d scannið
 
 
 # Setja modelinn inn í three.js með Mediapipe.
-<img src="(https://github.com/jokullsmari/Vidmotsforr_lokaverk/assets/36273431/99901feb-88b8-4c6f-9d5d-1aaa21342aa8" with=600 height=300>
+<img src="(https://github.com/jokullsmari/Vidmotsforr_lokaverk/assets/36273431/99901feb-88b8-4c6f-9d5d-1aaa21342aa8" with=300 height=150>
