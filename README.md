@@ -20,7 +20,6 @@ Vinnur minn Svavar bauð sig fram sem sjálfboðaliða fyrir 3d scannið
   -bæta gig skeleton fyrir hreyfinguna.
 
   ![IMG![Screenshot 2024-05-07 140817](https://github.com/jokullsmari/Vidmotsforr_lokaverk/assets/36273431/8f28c7f1-a5c1-422b-bce5-69a0b83e7549)
-  ![Screenshot 2024-05-07 140817](https://github.com/jokullsmari/Vidmotsforr_lokaverk/assets/36273431/8f28c7f1-a5c1-422b-bce5-69a0b83e7549)
 
 
 ---  1. mynd af blender að taka í burtu background
