@@ -21,8 +21,8 @@ Vinnur minn Svavar bauð sig fram sem sjálfboðaliða fyrir 3d scannið
 
 <img src="https://github.com/jokullsmari/Vidmotsforr_lokaverk/assets/36273431/8f28c7f1-a5c1-422b-bce5-69a0b83e7549" width=300 height=400>
 <img src="https://github.com/jokullsmari/Vidmotsforr_lokaverk/assets/36273431/0028fbb4-7ff6-4c66-8558-72e5a5e43830" width=300 height=400>
+<img src="https://github.com/jokullsmari/Vidmotsforr_lokaverk/assets/36273431/51134784-dc4f-480c-bdac-27272b0a5e93" width=300 height=400>
 
-<img src="https://github.com/jokullsmari/Vidmotsforr_lokaverk/assets/36273431/8f28c7f1-a5c1-422b-bce5-69a0b83e7549" width=300 height=400>
 
 ---  1. mynd af blender að taka í burtu background
 
