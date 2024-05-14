@@ -1,6 +1,6 @@
 # Vidmotsforr_lokaverk_spönn2Vor2024
 
-# DancePartý
+# Pose Detection
 
 
 Ég áhvað að búa til Síðu sem tekur inn 3D scannaður model sem les hreyfingar notanda appsins með því að scanna líkams hreyfingar
