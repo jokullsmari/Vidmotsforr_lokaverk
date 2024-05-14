@@ -19,7 +19,7 @@ Vinnur minn Svavar bauð sig fram sem sjálfboðaliða fyrir 3d scannið
   -gera modelinn extra smooth og 
   -bæta gig skeleton fyrir hreyfinguna.
 
-  ![IMG![Screenshot 2024-05-07 140817](https://github.com/jokullsmari/Vidmotsforr_lokaverk/assets/36273431/8f28c7f1-a5c1-422b-bce5-69a0b83e7549){:height="36px" width="36px"}
+  ![IMG![Screenshot 2024-05-07 140817](https://github.com/jokullsmari/Vidmotsforr_lokaverk/assets/36273431/8f28c7f1-a5c1-422b-bce5-69a0b83e7549){:height="10px" width="10px"}
 
 
 ---  1. mynd af blender að taka í burtu background
